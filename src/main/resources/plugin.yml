@@ -1,0 +1,7 @@
+name: Random
+version: '${project.version}'
+main: com.probattler.random.Random
+api-version: 1.16
+commands:
+  randomreload:
+    description: Reloads the config for the randomdrops plugin.
